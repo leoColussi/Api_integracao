@@ -1,0 +1,9 @@
+1 passo
+pip install flask requests
+
+
+2 passo
+python app.py
+
+3 passo 
+http://localhost:3000/cep/01001000
